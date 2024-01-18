@@ -27,4 +27,4 @@ This application can be used in a browser, or on the desktop if the user clicks 
 
 I got starter code from this repo provided by my bootcamp course: https://github.com/coding-boot-camp/cautious-meme
 
-I also referenced code from module 19 activities 26 and 28 from my coding bootcamp class notes. 
+I also referenced code from module 19, activities 26 and 28 from my coding bootcamp class notes. 
